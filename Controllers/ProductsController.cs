@@ -6,9 +6,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
-using System.Web.Http;
-using System.Web.Http.Routing;
-
+// using System.Web.Http;
+// using System.Web.Http.Routing;
 
 namespace ProductsApp.Controllers
 {
@@ -23,6 +22,7 @@ namespace ProductsApp.Controllers
             new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M}
         };
 
+        [Microsoft.AspNetCore.Mvc.HttpGet]
         public IEnumerable<Product> GetAllProducts()
         {
             return products;
@@ -41,5 +41,9 @@ namespace ProductsApp.Controllers
 
             return (IHttpActionResult)Ok(product);
         }
+    }
+
+    public interface IHttpActionResult
+    {
     }
 }

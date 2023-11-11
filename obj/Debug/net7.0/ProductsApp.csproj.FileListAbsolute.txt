@@ -35,3 +35,40 @@ D:\Programas testes\ProductsApp\obj\Debug\net7.0\refint\ProductsApp.dll
 D:\Programas testes\ProductsApp\obj\Debug\net7.0\ProductsApp.pdb
 D:\Programas testes\ProductsApp\obj\Debug\net7.0\ProductsApp.genruntimeconfig.cache
 D:\Programas testes\ProductsApp\obj\Debug\net7.0\ref\ProductsApp.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\ProductsApp.exe
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\ProductsApp.deps.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\ProductsApp.runtimeconfig.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\ProductsApp.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\ProductsApp.pdb
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\System.Web.Http.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.csproj.AssemblyReference.cache
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.AssemblyInfoInputs.cache
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.AssemblyInfo.cs
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets\msbuild.ProductsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductsApp.props
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductsApp.props
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductsApp.props
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\scopedcss\bundle\ProductsApp.styles.css
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.csproj.CopyComplete
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\refint\ProductsApp.dll
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.pdb
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ProductsApp.genruntimeconfig.cache
+C:\Users\p\Desktop\produtosAPI\ProductsApp\obj\Debug\net7.0\ref\ProductsApp.dll
