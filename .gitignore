@@ -1,4 +1,4 @@
 /.vs
-/ProductsApp/bin
-/ProductsApp/obj
-/ProductsApp/ProductsApp.csproj.user
+/bin
+/obj
+/ProductsApp.csproj.user
