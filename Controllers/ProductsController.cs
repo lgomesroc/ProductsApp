@@ -30,16 +30,16 @@ namespace ProductsApp.Controllers
 
         
         [Microsoft.AspNetCore.Mvc.HttpGet("{id}")]   
-        public IHttpActionResult GetProduct(int id)
+        public IActionResult GetProduct(int id)
         {
             var product = products.FirstOrDefault((p) => p.Id == id);
 
             if (product == null)
             {
-                return (IHttpActionResult)NotFound();
+                return NotFound();
             }
 
-            return (IHttpActionResult)Ok(product);
+            return Ok(product);
         }
     }
 
